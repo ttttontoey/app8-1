@@ -1,6 +1,7 @@
 import React from 'react'
-import RestBasic from './rest-basic'
+
+import FormPost from './form-post'
 
 export default function App() {
-  return <RestBasic/>
+  return <FormPost/>
 }
